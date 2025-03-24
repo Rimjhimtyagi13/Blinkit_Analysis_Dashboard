@@ -21,5 +21,5 @@ This repository contains a **Power BI dashboard** analyzing sales, customer pref
 This analysis helps businesses understand **customer behavior, product demand, and regional sales trends**, assisting in **strategic decision-making** for inventory management and outlet expansion.  
 
 ---  
- **Author:** Rimjhim Tyag 
+ **Author:** Rimjhim Tyagi 
 
